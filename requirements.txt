@@ -2,7 +2,7 @@ numpy
 scipy
 matplotlib
 pandas
-geopandas
+geopandas==0.12.1
 os
 json
 shapely
