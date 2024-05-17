@@ -2,9 +2,3 @@ numpy
 scipy
 matplotlib
 pandas
-geopandas==0.12.1
-os
-json
-shapely
-unidecode
-folium
