@@ -4,3 +4,8 @@ matplotlib
 pandas
 geopandas
 seaborn
+os
+json
+shapely
+unidecode
+folium
