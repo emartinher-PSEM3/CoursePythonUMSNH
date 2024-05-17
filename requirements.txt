@@ -3,7 +3,6 @@ scipy
 matplotlib
 pandas
 geopandas
-seaborn==0.13.2
 os
 json
 shapely
